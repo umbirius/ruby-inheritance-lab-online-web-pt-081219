@@ -27,6 +27,7 @@ i = 0
 for i < 4 
   jamal.learn(avi.teach)
   i +=1
+  end 
 end 
 
 puts jamal.knowledge
