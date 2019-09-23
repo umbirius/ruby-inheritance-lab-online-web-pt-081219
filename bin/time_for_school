@@ -27,7 +27,6 @@ i = 0
 while i < 4 do
   jamal.learn(avi.teach)
   i +=1
-  end 
 end 
 
 puts jamal.knowledge
