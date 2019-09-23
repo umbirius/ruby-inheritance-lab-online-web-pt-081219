@@ -23,8 +23,10 @@ jamal = Student.new
 jamal.first_name = "Jamal" 
 jamal.last_name = "Parker" 
 
-
-
-jamal.learn(avi.teach)
+i = 0
+for i < 4 
+  jamal.learn(avi.teach)
+  i +=1
+end 
 
 puts jamal.knowledge
